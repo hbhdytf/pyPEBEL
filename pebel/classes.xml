@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<root>
+    <class name="music" attr="music">
+        <class name="Jay" attr="Jay">
+            <class name="Yehuimei" attr="Yehuimei">
+                <class name="qingtian" attr="qingtian">
+                </class>
+            </class>
+        </class>
+    </class>
+    <class name="audio" attr="audio">
+        <class name="year" attr="1992"/>
+        <class name="year" attr="1993"/>
+        <class name="year" attr="1994"/>
+    </class>
+    <class name="video" attr="video">
+        <class name="movie" attr="survivals"/>
+        <class name="Colombia" attr="1992"/>
+    </class>
+</root>
